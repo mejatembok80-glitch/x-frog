@@ -1,0 +1,154 @@
+{
+  "arka": {
+    "idle": {
+      "file": "hero_anim/arka_idle.png",
+      "frames": 4,
+      "cellW": 135,
+      "cellH": 185
+    },
+    "run": {
+      "file": "hero_anim/arka_run.png",
+      "frames": 5,
+      "cellW": 167,
+      "cellH": 179
+    },
+    "jump": {
+      "file": "hero_anim/arka_jump.png",
+      "frames": 4,
+      "cellW": 163,
+      "cellH": 179
+    },
+    "attack": {
+      "file": "hero_anim/arka_attack.png",
+      "frames": 6,
+      "cellW": 523,
+      "cellH": 150
+    },
+    "skill": {
+      "file": "hero_anim/arka_skill.png",
+      "frames": 6,
+      "cellW": 414,
+      "cellH": 360
+    },
+    "hurt": {
+      "file": "hero_anim/arka_hurt.png",
+      "frames": 2,
+      "cellW": 135,
+      "cellH": 136
+    }
+  },
+  "raga": {
+    "idle": {
+      "file": "hero_anim/raga_idle.png",
+      "frames": 4,
+      "cellW": 165,
+      "cellH": 217
+    },
+    "run": {
+      "file": "hero_anim/raga_run.png",
+      "frames": 4,
+      "cellW": 222,
+      "cellH": 201
+    },
+    "jump": {
+      "file": "hero_anim/raga_jump.png",
+      "frames": 3,
+      "cellW": 214,
+      "cellH": 227
+    },
+    "attack": {
+      "file": "hero_anim/raga_attack.png",
+      "frames": 5,
+      "cellW": 378,
+      "cellH": 152
+    },
+    "skill": {
+      "file": "hero_anim/raga_skill.png",
+      "frames": 4,
+      "cellW": 329,
+      "cellH": 172
+    },
+    "hurt": {
+      "file": "hero_anim/raga_hurt.png",
+      "frames": 2,
+      "cellW": 163,
+      "cellH": 144
+    }
+  },
+  "nira": {
+    "idle": {
+      "file": "hero_anim/nira_idle.png",
+      "frames": 4,
+      "cellW": 159,
+      "cellH": 197
+    },
+    "run": {
+      "file": "hero_anim/nira_run.png",
+      "frames": 4,
+      "cellW": 220,
+      "cellH": 193
+    },
+    "jump": {
+      "file": "hero_anim/nira_jump.png",
+      "frames": 4,
+      "cellW": 170,
+      "cellH": 183
+    },
+    "attack": {
+      "file": "hero_anim/nira_attack.png",
+      "frames": 6,
+      "cellW": 271,
+      "cellH": 182
+    },
+    "skill": {
+      "file": "hero_anim/nira_skill.png",
+      "frames": 5,
+      "cellW": 237,
+      "cellH": 246
+    },
+    "hurt": {
+      "file": "hero_anim/nira_hurt.png",
+      "frames": 2,
+      "cellW": 150,
+      "cellH": 100
+    }
+  },
+  "selene": {
+    "idle": {
+      "file": "hero_anim/selene_idle.png",
+      "frames": 4,
+      "cellW": 160,
+      "cellH": 202
+    },
+    "run": {
+      "file": "hero_anim/selene_run.png",
+      "frames": 5,
+      "cellW": 180,
+      "cellH": 200
+    },
+    "jump": {
+      "file": "hero_anim/selene_jump.png",
+      "frames": 4,
+      "cellW": 228,
+      "cellH": 196
+    },
+    "attack": {
+      "file": "hero_anim/selene_attack.png",
+      "frames": 6,
+      "cellW": 414,
+      "cellH": 346
+    },
+    "skill": {
+      "file": "hero_anim/selene_skill.png",
+      "frames": 4,
+      "cellW": 204,
+      "cellH": 215
+    },
+    "hurt": {
+      "file": "hero_anim/selene_hurt.png",
+      "frames": 2,
+      "cellW": 142,
+      "cellH": 110
+    }
+  }
+}
